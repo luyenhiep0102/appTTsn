@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 math fix by lesson 1-2 - add my lesson 1.2
 =======
+add by lesson 2
 math fix by lesson 1-2
 math add by lesson 1-1
 >>>>>>> 259e1b718f386b9197fd838936d00e4a95ded557
