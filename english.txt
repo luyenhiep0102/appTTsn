@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 lession one - lesson 2
+=======
+lession one fix
+lession one add
+>>>>>>> 54f434937cff85729786b14d3e26f3e6d134d28c
